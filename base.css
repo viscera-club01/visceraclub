@@ -1,0 +1,79 @@
+/* ======================================
+RESET + BASE GLOBAL
+====================================== */
+
+*,
+*::before,
+*::after{
+    box-sizing:border-box;
+}
+
+html,
+body{
+    margin:0;
+    padding:0;
+    max-width:100%;
+    overflow-x:hidden;
+    font-family:'Montserrat', sans-serif;
+    background:#000;
+    color:#fff;
+}
+
+img,
+video,
+iframe{
+    max-width:100%;
+    height:auto;
+    display:block;
+}
+
+a{
+    text-decoration:none;
+    color:inherit;
+}
+
+button{
+    font-family:inherit;
+    cursor:pointer;
+}
+
+.section,
+.hero,
+.drop-hero,
+.product-block,
+.account-page,
+.checkout-page,
+.admin-page,
+footer,
+header{
+    width:100%;
+}
+
+.checkout-page h1{
+    color: #8a0000;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 0;
+}
+
+/* ===== SHIPPING (ADMIN) ===== */
+
+.order-shipping strong {
+  font-size: 0.9rem;
+}
+
+.order-shipping span {
+  font-size: 0.82rem;
+  opacity: 0.8;
+  word-break: break-word;
+}
+
+.order-shipping {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  background: rgba(255,255,255,0.03);
+  padding: 6px 10px;
+  border-radius: 8px;
+  justify-content: center;
+}

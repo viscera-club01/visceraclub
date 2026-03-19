@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1773347694308,
+    "orderId": 1773079840843,
+    "customer": {
+      "name": "Victoria Azevedo",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": ""
+    },
+    "type": "return",
+    "reason": "Tamanho não serviu",
+    "requestedItems": [],
+    "desiredSize": "",
+    "message": "nãos serviu",
+    "status": "completed",
+    "isReadByAdmin": true,
+    "createdAt": "2026-03-12T20:34:54.308Z",
+    "readAt": "2026-03-12T20:35:27.440Z",
+    "updatedAt": "2026-03-12T20:36:12.150Z"
+  },
+  {
+    "id": 1773347717006,
+    "orderId": 1773079840843,
+    "customer": {
+      "name": "Victoria Azevedo",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": ""
+    },
+    "type": "return",
+    "reason": "Tamanho não serviu",
+    "requestedItems": [],
+    "desiredSize": "",
+    "message": "não serviu",
+    "status": "rejected",
+    "isReadByAdmin": true,
+    "createdAt": "2026-03-12T20:35:17.006Z",
+    "readAt": "2026-03-12T20:35:24.731Z",
+    "updatedAt": "2026-03-12T20:36:10.971Z"
+  }
+]

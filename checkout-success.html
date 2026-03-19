@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PAGAMENTO APROVADO | VISCERA CLUB</title>
+    <link rel="stylesheet" href="/base.css">
+    <link rel="stylesheet" href="/layout.css">
+    <link rel="stylesheet" href="/mobile.css">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <section class="payment-success-page">
+    <div class="payment-success-glow"></div>
+
+    <div class="payment-success-card" id="success-order-box">
+      <p>Carregando dados do pedido...</p>
+    </div>
+  </section>
+
+  <script>
+    function formatPrice(value) {
+      return Number(value || 0).toLocaleString("pt-BR", {
+        style: "currency",
+        currency: "BRL"
+      });
+    }
+
+    function getStatusLabel(status) {
+      const labels = {
+        pending: "Pendente",
+        paid: "Pago",
+        shipped: "Enviado",
+        cancelled: "Cancelado"
+      };
+
+      return labels[status] || status;
+    }
+
+    async function loadOrder() {
+      const params = new URLSearchParams(window.location.search);
+      const orderId =
+        params.get("external_reference") ||
+        params.get("order_id") ||
+        params.get("merchant_order_id");
+
+      const container = document.getElementById("success-order-box");
+
+      if (!orderId) {
+        container.innerHTML = `
+          <p class="payment-success-kicker">VISCERA CLUB</p>
+          <h1>Pedido confirmado</h1>
+          <p class="payment-success-text">
+            Seu pagamento foi aprovado, mas não conseguimos localizar o número do pedido no retorno.
+          </p>
+          <div class="payment-success-actions">
+            <a href="conta.html" class="btn">Ver meus pedidos</a>
+            <a href="index.html" class="btn btn-outline-light">Voltar para a loja</a>
+          </div>
+        `;
+        return;
+      }
+
+      try {
+        const response = await fetch(`/orders/${orderId}`);
+
+        if (!response.ok) {
+          throw new Error("Pedido não encontrado");
+        }
+
+        const order = await response.json();
+
+        localStorage.removeItem("cart");
+
+        container.innerHTML = `
+          <p class="payment-success-kicker">VISCERA CLUB</p>
+          <h1>Pedido confirmado</h1>
+          <p class="payment-success-text">
+            Seu pagamento foi aprovado com sucesso.
+          </p>
+
+          <div class="payment-order-meta">
+            <div class="payment-meta-box">
+              <span class="payment-meta-label">Pedido</span>
+              <strong>#${order.id}</strong>
+            </div>
+
+            <div class="payment-meta-box">
+              <span class="payment-meta-label">Status</span>
+              <strong>${getStatusLabel(order.status)}</strong>
+            </div>
+          </div>
+
+          <div class="payment-order-section">
+            <h3>Itens do pedido</h3>
+
+            <div class="payment-items-list">
+              ${order.cart.map(item => `
+                <div class="payment-item-row">
+                  <div class="payment-item-info">
+                    <strong>${item.product}</strong>
+                    <p>${item.size} • ${item.color}</p>
+                  </div>
+
+                  <div class="payment-item-meta">
+                    <p>Qtde: ${item.quantity}</p>
+                    <p>${formatPrice(item.price)}</p>
+                  </div>
+                </div>
+              `).join("")}
+            </div>
+          </div>
+
+          <div class="payment-order-section">
+            <h3>Resumo</h3>
+
+            <div class="payment-summary-line">
+              <span>Subtotal</span>
+              <span>${formatPrice(order.subtotal)}</span>
+            </div>
+
+            <div class="payment-summary-line">
+              <span>Frete</span>
+              <span>${formatPrice(order.shippingCost)}</span>
+            </div>
+
+            ${Number(order.discountAmount) > 0 ? `
+              <div class="payment-summary-line discount">
+                <span>Desconto</span>
+                <span>- ${formatPrice(order.discountAmount)}</span>
+              </div>
+            ` : ""}
+
+            <div class="payment-summary-total">
+              <span>Total</span>
+              <strong>${formatPrice(order.total)}</strong>
+            </div>
+          </div>
+
+          <div class="payment-order-section">
+            <h3>Próximos passos</h3>
+            <p class="payment-success-text">
+              Assim que o envio for gerado, a transportadora e o código de rastreio aparecerão na sua conta.
+            </p>
+          </div>
+
+          <div class="payment-success-actions">
+            <a href="conta.html" class="btn">Ver meus pedidos</a>
+            <a href="index.html" class="btn btn-outline-light">Voltar para a loja</a>
+          </div>
+        `;
+      } catch (error) {
+        console.error(error);
+
+        container.innerHTML = `
+          <p class="payment-success-kicker">VISCERA CLUB</p>
+          <h1>Pedido confirmado</h1>
+          <p class="payment-success-text">
+            Seu pagamento foi aprovado, mas houve um erro ao carregar os dados do pedido.
+          </p>
+          <div class="payment-success-actions">
+            <a href="conta.html" class="btn">Ver meus pedidos</a>
+            <a href="index.html" class="btn btn-outline-light">Voltar para a loja</a>
+          </div>
+        `;
+      }
+    }
+
+    loadOrder();
+  </script>
+
+
+</body>
+</html>

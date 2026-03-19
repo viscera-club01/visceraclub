@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Login | VISCERA CLUB</title>
+    <link rel="stylesheet" href="/base.css">
+    <link rel="stylesheet" href="/layout.css">
+    <link rel="stylesheet" href="/mobile.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <link rel="icon" type="image/png" href="favicon.png">
+</head>
+<body>
+
+  <section class="account-page">
+    <h1>Painel VISCERA</h1>
+    <p>Entre com seu login administrativo.</p>
+
+    <div class="account-search">
+
+      <input type="email" id="admin-email" placeholder="Email Admin">
+
+      <div class="password-field">
+        <input type="password" id="admin-password" placeholder="Senha">
+
+        <button type="button" id="toggle-password" class="password-toggle">
+          <i data-lucide="eye"></i>
+        </button>
+      </div>
+
+  <button class="btn" id="admin-login-btn">Entrar</button>
+
+</div>
+
+    <div id="admin-login-message"></div>
+  </section>
+
+  <script src="admin-login.js"></script>
+
+  <script>
+  lucide.createIcons();
+  </script>
+
+</body>
+</html>

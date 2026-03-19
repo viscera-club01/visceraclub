@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="VISCERA: streetwear crua e urbana, para quem sente demais, vive intensamente e transforma dor em estilo e identidade.">
+<title>Checkout | VISCERA CLUB</title>
+
+<!-- FAVICON -->
+<link rel="icon" type="image/png" href="favicon.png">
+
+<script src="https://unpkg.com/lucide@latest"></script>
+
+    <link rel="stylesheet" href="/base.css">
+    <link rel="stylesheet" href="/layout.css">
+    <link rel="stylesheet" href="/mobile.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="top-marquee">
+        <div class="top-marquee-track">
+
+            <div class="marquee-content">
+            <span>EM ATÉ 3X SEM JUROS</span>
+            <span>•</span>
+            <span>DROP LIMITADO</span>
+            <span>•</span>
+            <span>ENVIO PARA TODO O BRASIL</span>
+            <span>•</span>
+            <span>PAGAMENTO SEGURO</span>
+            <span>•</span>
+            <span>SEM REPOSIÇÃO</span>
+            </div>
+
+            <div class="marquee-content">
+            <span>•</span>
+            <span>EM ATÉ 3X SEM JUROS</span>
+            <span>•</span>
+            <span>DROP LIMITADO</span>
+            <span>•</span>
+            <span>ENVIO PARA TODO O BRASIL</span>
+            <span>•</span>
+            <span>PAGAMENTO SEGURO</span>
+            <span>•</span>
+            <span>SEM REPOSIÇÃO</span>
+            </div>
+
+            <div class="marquee-content">
+            <span>•</span>
+            <span>EM ATÉ 3X SEM JUROS</span>
+            <span>•</span>
+            <span>DROP LIMITADO</span>
+            <span>•</span>
+            <span>ENVIO PARA TODO O BRASIL</span>
+            <span>•</span>
+            <span>PAGAMENTO SEGURO</span>
+            <span>•</span>
+            <span>SEM REPOSIÇÃO</span>
+            </div>
+        </div>
+        </div>
+
+
+<header>
+    <div class="logo">
+        <a href="index.html">
+            <img src="logo.png" alt="LOGO VISCERA CLUB">
+        </a>
+    </div>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="manifesto.html">Manifesto</a>
+        <a href="drop1.html">Drop I</a>
+        <a href="sobre.html">Sobre</a>
+        <div class="header-icons">
+
+  <a href="conta.html" class="account-icon">
+    <i data-lucide="user"></i>
+  </a>
+
+  <a href="checkout.html" class="cart-icon">
+    <i data-lucide="shopping-cart"></i>
+    <span class="cart-count">0</span>
+  </a>
+
+</div>
+    </nav>
+</header>
+
+<section class="checkout-page">
+
+<h1>CHECKOUT</h1>
+
+<div class="checkout-container">
+
+<div class="checkout-form">
+
+<h2>Informações de Entrega</h2>
+
+<input type="text" id="customer-name" name="name" autocomplete="name" placeholder="Nome completo" required>
+
+<input type="text" id="cpf" name="cpf" placeholder="000.000.000-00" maxlength="14" required>
+
+<input type="email" id="customer-email" name="email" autocomplete="email" placeholder="Email" required>
+
+<input type="text" id="customer-phone" name="tel" autocomplete="tel" placeholder="Telefone" required>
+
+<h3>Endereço</h3>
+
+<input type="text" id="cep" name="postal-code" autocomplete="postal-code" placeholder="CEP" required>
+
+<input type="text" id="street" name="address-line1" autocomplete="address-level1" placeholder="Rua">
+
+<input type="text" id="number" name="address-line2" autocomplete="address-line2" placeholder="Número">
+
+<input type="text" id="complement" placeholder="Complemento (apto, bloco, casa, fundos)">
+
+<input type="text" id="reference" placeholder="Ponto de referência">
+
+<div class="row">
+  <input type="text" id="city" name="address-level2" autocomplete="address-level2" placeholder="Cidade">
+  <input type="text" id="state" name="address-level1" autocomplete="address-level1" placeholder="Estado">
+</div>
+
+<h3>Frete</h3>
+
+<button type="button" class="btn" id="calc-frete-btn">
+CALCULAR FRETE
+</button>
+
+<div id="shipping-options"></div>
+
+<h3>Cupom de Desconto</h3>
+
+<div class="coupon-box">
+
+<input type="text" id="coupon-code" placeholder="Digite seu cupom">
+
+<button type="button" class="btn" id="apply-coupon-btn">
+APLICAR
+</button>
+
+<p id="coupon-message"></p>
+
+</div>
+
+</div>
+
+
+<div class="checkout-summary">
+
+<h2>Seu Pedido</h2>
+
+<div id="checkout-products"></div>
+
+<div class="summary-line">
+  <span>Quantidade de peças</span>
+  <span id="items-count">0</span>
+</div>
+
+<div class="summary-line">
+<span>Subtotal</span>
+<span id="subtotal-value">R$ 0,00</span>
+</div>
+
+<div class="summary-line">
+<span>Desconto</span>
+<span id="discount-value">R$ 0,00</span>
+</div>
+
+<div class="summary-line">
+<span>Frete</span>
+<span id="shipping-value">R$ 0,00</span>
+</div>
+
+<h3 id="checkout-total">R$ 0,00</h3>
+
+<p class="checkout-installments" id="checkout-installments">
+  ou 3x sem juros no cartão
+</p>
+
+<p class="checkout-urgency">
+  Seu carrinho está reservado para esta sessão.
+</p>
+
+<p class="checkout-legal">
+  Ao finalizar, você concorda com nossas
+  <a href="politicas.html" target="_blank">políticas da loja</a>.
+</p>
+
+<button id="pay-btn" type="button" class="finalizar-btn">GARANTIR MEU PEDIDO</button>
+
+</div>
+
+<div class="checkout-trust-box">
+  <div class="checkout-trust-item">
+    <span class="trust-dot"></span>
+    <span>Pagamento 100% seguro</span>
+  </div>
+
+  <div class="checkout-trust-item">
+    <span class="trust-dot"></span>
+    <span>Envio com rastreio</span>
+  </div>
+
+  <div class="checkout-trust-item">
+    <span class="trust-dot"></span>
+    <span>Drop limitado • sem reposição</span>
+  </div>
+</div>
+
+</div> <!-- checkout-container -->
+
+</section>
+
+<script src="checkout.js?v=11"></script>
+
+<script>
+lucide.createIcons();
+</script>
+
+</body>
+
+</html>

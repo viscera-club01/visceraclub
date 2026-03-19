@@ -1,0 +1,3743 @@
+[
+  {
+    "id": 1773079840843,
+    "customer": {
+      "name": "Victoria Azevedo",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": ""
+    },
+    "address": {
+      "cep": "11609-003",
+      "street": "Rua Prefeito Mansueto Pierotti",
+      "number": "1000",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "total": 509.70000000000005,
+    "status": "shipped",
+    "createdAt": "2026-03-09T18:10:40.843Z",
+    "carrier": "Correios",
+    "trackingCode": "TESTE123456BR",
+    "shippedAt": "2026-03-12T17:02:04.183Z",
+    "labelUrl": "https://www.google.com",
+    "emailNotifications": {
+      "orderCreatedSentAt": "",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": "2026-03-12T16:34:59.669Z"
+    }
+  },
+  {
+    "id": 1773086402373,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "27",
+      "complement": "casa",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "total": 849.5,
+    "status": "shipped",
+    "createdAt": "2026-03-09T20:00:02.373Z",
+    "carrier": "Correios",
+    "trackingCode": "TESTE123456BR",
+    "labelUrl": "https://www.google.com",
+    "shippedAt": "2026-03-12T17:20:09.789Z"
+  },
+  {
+    "id": 1773148049693,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "100",
+      "complement": "casa",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "shipped",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T13:07:29.693Z",
+    "carrier": "Correios",
+    "trackingCode": "TESTE123456BR",
+    "shippedAt": "2026-03-11T18:51:49.543Z"
+  },
+  {
+    "id": 1773148232342,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "1000",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T13:10:32.342Z"
+  },
+  {
+    "id": 1773148809682,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "2222",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T13:20:09.682Z"
+  },
+  {
+    "id": 1773149349580,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "233",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T13:29:09.580Z"
+  },
+  {
+    "id": 1773150102890,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "20",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 29.79,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Jadlog",
+      "name": ".Package",
+      "deliveryTime": 7,
+      "price": 29.79
+    },
+    "total": 1049.19,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T13:41:42.890Z"
+  },
+  {
+    "id": 1773150291331,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "45",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T13:44:51.331Z"
+  },
+  {
+    "id": 1773150317099,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "454",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T13:45:17.099Z"
+  },
+  {
+    "id": 1773150415585,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "33",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T13:46:55.585Z"
+  },
+  {
+    "id": 1773150549361,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "77",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T13:49:09.361Z"
+  },
+  {
+    "id": 1773150601077,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "00",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T13:50:01.077Z"
+  },
+  {
+    "id": 1773161099939,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "444",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T16:44:59.939Z"
+  },
+  {
+    "id": 1773163960645,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "1111",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T17:32:40.645Z"
+  },
+  {
+    "id": 1773163990008,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "2222",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T17:33:10.008Z"
+  },
+  {
+    "id": 1773164778828,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "111",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T17:46:18.828Z"
+  },
+  {
+    "id": 1773164934272,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "111",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T17:48:54.273Z"
+  },
+  {
+    "id": 1773165138402,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11608-572",
+      "street": "Rua Manoel Ladislau de Matos",
+      "number": "27",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 51.37,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 51.37
+    },
+    "total": 1070.77,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T17:52:18.402Z"
+  },
+  {
+    "id": 1773166705535,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "1111",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T18:18:25.535Z"
+  },
+  {
+    "id": 1773167923755,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "3234",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T18:38:43.756Z"
+  },
+  {
+    "id": 1773168211896,
+    "customer": {
+      "name": "VICTORIA AZEVEDO",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11608-572",
+      "street": "Rua Manoel Ladislau de Matos",
+      "number": "27",
+      "complement": "APTO 23",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T18:43:31.896Z"
+  },
+  {
+    "id": 1773168787860,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11608-572",
+      "street": "Rua Manoel Ladislau de Matos",
+      "number": "27",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T18:53:07.860Z"
+  },
+  {
+    "id": 1773168863729,
+    "customer": {
+      "name": "VICTORIA AZEVEDO",
+      "email": "visceraclub01@gmail.com",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11608-572",
+      "street": "Rua Manoel Ladislau de Matos",
+      "number": "27",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "M",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 21.67,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 21.67
+    },
+    "total": 191.57,
+    "status": "shipped",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T18:54:23.729Z",
+    "carrier": "Correios",
+    "trackingCode": "TESTE123456BR",
+    "shippedAt": "2026-03-12T17:03:26.070Z",
+    "labelUrl": "https://www.google.com",
+    "emailNotifications": {
+      "orderCreatedSentAt": "",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": "2026-03-12T17:03:26.574Z"
+    }
+  },
+  {
+    "id": 1773168921640,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "2222",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 21.67,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 21.67
+    },
+    "total": 191.57,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T18:55:21.640Z"
+  },
+  {
+    "id": 1773168986904,
+    "customer": {
+      "name": "JOSIANE DANTAS",
+      "email": "anglosaoseba@hotmail.com",
+      "phone": "+5512996354295"
+    },
+    "address": {
+      "cep": "11604-701",
+      "street": "Rua das Crianças",
+      "number": "793",
+      "complement": "apto 12",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-off.gif",
+        "color": "Off White",
+        "size": "P",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 21.67,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 21.67
+    },
+    "total": 191.57,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T18:56:26.904Z"
+  },
+  {
+    "id": 1773169231786,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "1111",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 1063.79,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-10T19:00:31.786Z"
+  },
+  {
+    "id": 1773252488646,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "2222",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 101.94,
+    "couponCode": "VISCERA10",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 961.85,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-11T18:08:08.646Z"
+  },
+  {
+    "id": 1773257217416,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "1111",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "P",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "PIETÀ",
+        "price": 169.9,
+        "image": "drop3-off.gif",
+        "color": "Off White",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G2",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 1019.4,
+    "shippingCost": 44.39,
+    "discountAmount": 101.94,
+    "couponCode": "VISCERA10",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 44.39
+    },
+    "total": 961.85,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-11T19:26:57.416Z"
+  },
+  {
+    "id": 1773257459037,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "111",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "PP",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 21.67,
+    "discountAmount": 16.99,
+    "couponCode": "VISCERA10",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 21.67
+    },
+    "total": 174.58,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-11T19:30:59.037Z"
+  },
+  {
+    "id": 1773258332043,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "342",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "P",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 21.67,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 21.67
+    },
+    "total": 191.57,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-11T19:45:32.043Z"
+  },
+  {
+    "id": 1773258355701,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "342",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "P",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 21.67,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 21.67
+    },
+    "total": 191.57,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-11T19:45:55.701Z"
+  },
+  {
+    "id": 1773258735508,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "342",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "P",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 21.67,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 21.67
+    },
+    "total": 191.57,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-11T19:52:15.508Z"
+  },
+  {
+    "id": 1773258873255,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "343",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "PP",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 21.67,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 21.67
+    },
+    "total": 191.57,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-11T19:54:33.255Z"
+  },
+  {
+    "id": 1773258958879,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "111",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 21.67,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 21.67
+    },
+    "total": 191.57,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-11T19:55:58.879Z"
+  },
+  {
+    "id": 1773259201673,
+    "customer": {
+      "name": "JOSIANE LOPES DANTAS",
+      "email": "josiedantas@uol.com.br",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11608-572",
+      "street": "Rua Manoel Ladislau de Matos",
+      "number": "27",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "PP",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 21.67,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 21.67
+    },
+    "total": 191.57,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-11T20:00:01.673Z"
+  },
+  {
+    "id": 1773259369602,
+    "customer": {
+      "name": "JOSIANE LOPES DANTAS",
+      "email": "josiedantas@uol.com.br",
+      "phone": "12982734027"
+    },
+    "address": {
+      "cep": "11608-572",
+      "street": "Rua Manoel Ladislau de Matos",
+      "number": "27",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "M",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 21.67,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 21.67
+    },
+    "total": 191.57,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-11T20:02:49.602Z"
+  },
+  {
+    "id": 1773259392651,
+    "customer": {
+      "name": "JOSIANE LOPES DANTAS",
+      "email": "josiedantas@uol.com.br",
+      "phone": "12982374027"
+    },
+    "address": {
+      "cep": "11608-572",
+      "street": "Rua Manoel Ladislau de Matos",
+      "number": "27",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "M",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 21.67,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 21.67
+    },
+    "total": 191.57,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-11T20:03:12.651Z"
+  },
+  {
+    "id": 1773332179566,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "333",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 21.67,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 21.67
+    },
+    "total": 191.57,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-12T16:16:19.566Z",
+    "paidAt": "",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "2026-03-12T16:16:20.285Z",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  },
+  {
+    "id": 1773342230574,
+    "customer": {
+      "name": "Victoria Azevedo",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "(12) 982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "21",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "GG",
+        "quantity": 2,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G1",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-preto.gif",
+        "color": "Black",
+        "size": "M",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      },
+      {
+        "product": "BLUE VEIL",
+        "price": 169.9,
+        "image": "drop2-off.gif",
+        "color": "Off White",
+        "size": "M",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 849.5,
+    "shippingCost": 32.46,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "company": "Correios",
+      "name": "PAC",
+      "deliveryTime": 7,
+      "price": 32.46
+    },
+    "total": 881.96,
+    "status": "shipped",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-12T19:03:50.574Z",
+    "paidAt": "",
+    "carrier": "Correios",
+    "trackingCode": "TESTE123456BR",
+    "labelUrl": "https://www.google.com",
+    "shippedAt": "2026-03-12T22:16:33.676Z",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "2026-03-12T19:03:51.090Z",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  },
+  {
+    "id": 1773779794602,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "289",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G",
+        "quantity": 5,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 849.5,
+    "shippingCost": 28.47,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "id": "2",
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 28.47
+    },
+    "total": 877.97,
+    "status": "paid",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-17T20:36:34.603Z",
+    "paidAt": "2026-03-17T20:36:34.603Z",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "2026-03-17T20:37:28.432Z",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "",
+      "adminOrderCreatedSentAt": "",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  },
+  {
+    "id": 1773780485498,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "289",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G",
+        "quantity": 5,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 849.5,
+    "shippingCost": 28.47,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "id": "2",
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 28.47
+    },
+    "total": 877.97,
+    "status": "paid",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-17T20:48:05.498Z",
+    "paidAt": "2026-03-17T20:48:05.498Z",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "",
+      "adminOrderCreatedSentAt": "",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  },
+  {
+    "id": 1773780667642,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES SILVA",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "289",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G",
+        "quantity": 5,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 849.5,
+    "shippingCost": 28.47,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "id": "2",
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 28.47
+    },
+    "total": 877.97,
+    "status": "paid",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-17T20:51:07.642Z",
+    "paidAt": "2026-03-17T20:51:07.643Z",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "",
+      "adminOrderCreatedSentAt": "",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  },
+  {
+    "id": 1773786958016,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES SILVA",
+      "cpf": "445.867.158-80",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "289",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G",
+        "quantity": 5,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 849.5,
+    "shippingCost": 28.47,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "id": "2",
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 28.47
+    },
+    "total": 877.97,
+    "status": "paid",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-17T22:35:58.016Z",
+    "paidAt": "2026-03-17T22:35:58.016Z",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "",
+      "adminOrderCreatedSentAt": "",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  },
+  {
+    "id": 1773787938967,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES SILVA",
+      "cpf": "445.867.158-80",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "289",
+      "complement": "Casa",
+      "reference": "Casa de portão marrom",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G",
+        "quantity": 5,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 849.5,
+    "shippingCost": 28.47,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "id": "2",
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 28.47
+    },
+    "total": 877.97,
+    "status": "paid",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-17T22:52:18.968Z",
+    "paidAt": "2026-03-17T22:52:18.968Z",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "",
+      "adminOrderCreatedSentAt": "",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  },
+  {
+    "id": 1773788388405,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES SILVA",
+      "cpf": "445.867.158-80",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "289",
+      "complement": "Casa",
+      "reference": "Casa de portão marrom",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G",
+        "quantity": 5,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 849.5,
+    "shippingCost": 28.47,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "id": "2",
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 28.47
+    },
+    "total": 877.97,
+    "status": "paid",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-17T22:59:48.405Z",
+    "paidAt": "2026-03-17T22:59:48.405Z",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "",
+      "adminOrderCreatedSentAt": "",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  },
+  {
+    "id": 1773788922793,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES SILVA",
+      "document": "445.867.158-80",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "289",
+      "complement": "Casa",
+      "reference": "Casa",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G",
+        "quantity": 5,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 849.5,
+    "shippingCost": 28.47,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "id": "2",
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 28.47
+    },
+    "total": 877.97,
+    "status": "paid",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-17T23:08:42.793Z",
+    "paidAt": "2026-03-17T23:08:42.793Z",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "",
+      "adminOrderCreatedSentAt": "",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  },
+  {
+    "id": 1773789369869,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES SILVA",
+      "document": "415.400.108-64",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "289",
+      "complement": "Casa",
+      "reference": "Casa",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G",
+        "quantity": 5,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 849.5,
+    "shippingCost": 28.47,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "id": "2",
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 28.47
+    },
+    "total": 877.97,
+    "status": "paid",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-17T23:16:09.869Z",
+    "paidAt": "2026-03-17T23:16:09.869Z",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "",
+      "adminOrderCreatedSentAt": "",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  },
+  {
+    "id": 1773923096037,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "document": "047.512.338-74",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "27",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 15.5,
+    "discountAmount": 168.2,
+    "couponCode": "TESTE99",
+    "shippingMethod": {
+      "id": "2",
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 15.5
+    },
+    "total": 17.2,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-19T12:24:56.037Z",
+    "paidAt": "",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "2026-03-19T12:24:57.062Z",
+      "adminOrderCreatedSentAt": "2026-03-19T12:24:57.393Z",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  },
+  {
+    "id": 1773924981949,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "document": "047.512.338-74",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "22",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 15.5,
+    "discountAmount": 168.2,
+    "couponCode": "TESTE99",
+    "shippingMethod": {
+      "id": "2",
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 15.5
+    },
+    "total": 17.2,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-19T12:56:21.950Z",
+    "paidAt": "",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "2026-03-19T12:56:22.450Z",
+      "adminOrderCreatedSentAt": "2026-03-19T12:56:22.725Z",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  },
+  {
+    "id": 1773925650385,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "document": "047.512.338-74",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "22",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 15.5,
+    "discountAmount": 168.2,
+    "couponCode": "TESTE99",
+    "shippingMethod": {
+      "id": "2",
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 15.5
+    },
+    "total": 17.2,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-19T13:07:30.385Z",
+    "paidAt": "",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "2026-03-19T13:07:30.911Z",
+      "adminOrderCreatedSentAt": "2026-03-19T13:07:31.336Z",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  },
+  {
+    "id": 1773925685575,
+    "customer": {
+      "name": "VICTORIA AZEVEDO SALES E SILVA",
+      "document": "047.512.338-74",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "+5512982374027"
+    },
+    "address": {
+      "cep": "11605-500",
+      "street": "Rua General Milton Tavares",
+      "number": "22",
+      "complement": "",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLOOD & DIAMONDS",
+        "price": 169.9,
+        "image": "drop1-off.gif",
+        "color": "Off White",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 169.9,
+    "shippingCost": 15.5,
+    "discountAmount": 168.2,
+    "couponCode": "TESTE99",
+    "shippingMethod": {
+      "id": "2",
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 15.5
+    },
+    "total": 17.2,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-19T13:08:05.575Z",
+    "paidAt": "",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "2026-03-19T13:08:05.930Z",
+      "adminOrderCreatedSentAt": "2026-03-19T13:08:06.300Z",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
+  }
+]

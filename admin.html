@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DASHBOARD | VISCERA CLUB</title>
+    <link rel="stylesheet" href="/base.css">
+    <link rel="stylesheet" href="/layout.css">
+    <link rel="stylesheet" href="/mobile.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="icon" type="image/png" href="favicon.png">
+</head>
+<body>
+
+  <div class="admin-container">
+
+    <div class="admin-header">
+  <h1>Painel Administrativo</h1>
+
+    <div class="admin-header-actions">
+    <div class="admin-bell-wrapper">
+      <button id="admin-bell-btn" class="admin-bell-btn" type="button">
+        <i data-lucide="bell"></i>
+        <span id="admin-bell-count" class="admin-bell-count hidden">0</span>
+      </button>
+
+      <div id="admin-bell-dropdown" class="admin-bell-dropdown hidden">
+        <div class="admin-bell-title">
+          Solicitações de troca/devolução
+        </div>
+        <div id="admin-bell-list" class="admin-bell-list">
+          <p>Nenhuma notificação.</p>
+        </div>
+        <a href="admin-returns.html" class="admin-bell-link">
+          Ver todas as solicitações
+        </a>
+      </div>
+    </div>
+
+    <button id="logout-btn" class="admin-logout-btn">SAIR</button>
+    <button id="export-orders-btn" class="admin-export-btn">BAIXAR PLANILHA</button>
+  </div>
+</div>
+
+
+    <div class="chart-section">
+      <h2>Vendas por dia</h2>
+      <div class="chart-container">
+        <canvas id="salesChart"></canvas>
+      </div>
+    </div>
+
+    <div id="admin-stats" class="stats"></div>
+
+    <div class="orders-section">
+      <div class="orders-header">
+        <h2 id="orders-section-title">Pedidos recentes</h2>
+        <button id="clear-date-filter" class="clear-date-filter hidden">
+          Limpar filtro do gráfico
+        </button>
+      </div>
+
+      <div class="orders-filters">
+        <button class="filter-btn active" data-status="all">
+          Todos <span class="filter-count" id="count-all">0</span>
+        </button>
+
+        <button class="filter-btn" data-status="pending">
+          Pendentes <span class="filter-count" id="count-pending">0</span>
+        </button>
+
+        <button class="filter-btn" data-status="paid">
+          Pagos <span class="filter-count" id="count-paid">0</span>
+        </button>
+
+        <button class="filter-btn" data-status="shipped">
+          Enviados <span class="filter-count" id="count-shipped">0</span>
+        </button>
+
+        <button class="filter-btn" data-status="cancelled">
+          Cancelados <span class="filter-count" id="count-cancelled">0</span>
+        </button>
+      </div>
+
+      <div class="orders-search-row">
+        <input
+          type="text"
+          id="orders-search-input"
+          placeholder="Buscar por pedido, nome ou email"
+        >
+      </div>
+
+      <div class="orders-date-tools">
+        <div class="quick-date-buttons">
+          <button class="quick-date-btn" data-range="today">Hoje</button>
+          <button class="quick-date-btn" data-range="yesterday">Ontem</button>
+          <button class="quick-date-btn" data-range="7days">Últimos 7 dias</button>
+          <button class="quick-date-btn" data-range="month">Este mês</button>
+        </div>
+
+        <div class="date-filter-box">
+          <input type="date" id="orders-date-input">
+          <button id="apply-date-filter-btn">Filtrar</button>
+        </div>
+      </div>
+
+      <div id="admin-orders-result"></div>
+    </div>
+
+  </div>
+
+  <script src="admin.js"></script>
+  <script>
+  lucide.createIcons();
+  </script>
+</body>
+</html>

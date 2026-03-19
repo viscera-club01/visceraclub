@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DEVOLUÇÕES E TROCAS | VISCERA CLUB</title>
+    <link rel="stylesheet" href="/base.css">
+    <link rel="stylesheet" href="/layout.css">
+    <link rel="stylesheet" href="/mobile.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="favicon.png">
+</head>
+<body>
+
+  <div class="admin-container">
+
+    <div class="admin-header">
+      <h1>Trocas e Devoluções</h1>
+
+      <div class="admin-header-actions">
+        <a href="admin.html" class="admin-back-btn">VOLTAR AO PAINEL</a>
+        <button id="logout-btn" class="admin-logout-btn">SAIR</button>
+      </div>
+    </div>
+
+    <div class="orders-section">
+      <div class="orders-header">
+        <h2>Solicitações</h2>
+      </div>
+
+      <div class="orders-filters">
+        <button class="return-filter-btn active" data-status="all">Todas</button>
+        <button class="return-filter-btn" data-status="pending">Pendentes</button>
+        <button class="return-filter-btn" data-status="approved">Aprovadas</button>
+        <button class="return-filter-btn" data-status="rejected">Recusadas</button>
+        <button class="return-filter-btn" data-status="completed">Concluídas</button>
+      </div>
+
+      <div class="orders-search-row">
+        <input
+          type="text"
+          id="returns-search-input"
+          placeholder="Buscar por pedido, cliente ou email"
+        >
+      </div>
+
+      <div id="admin-returns-result"></div>
+    </div>
+
+  </div>
+
+  <script src="admin-returns.js"></script>
+</body>
+</html>

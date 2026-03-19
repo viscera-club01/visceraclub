@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PAGAMENTO NÃO CONCLUÍDO | VISCERA CLUB</title>
+    <link rel="stylesheet" href="/base.css">
+    <link rel="stylesheet" href="/layout.css">
+    <link rel="stylesheet" href="/mobile.css">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <section class="payment-success-page">
+    <div class="payment-success-glow"></div>
+
+    <div class="payment-success-card" id="failure-order-box">
+      <p>Carregando informações...</p>
+    </div>
+  </section>
+
+  <script>
+    async function loadFailurePage() {
+      const params = new URLSearchParams(window.location.search);
+      const orderId =
+        params.get("external_reference") ||
+        params.get("order_id") ||
+        params.get("merchant_order_id");
+
+      const container = document.getElementById("failure-order-box");
+
+      container.innerHTML = `
+        <p class="payment-success-kicker">VISCERA CLUB</p>
+        <h1>Pagamento não concluído</h1>
+        <p class="payment-success-text">
+          O pagamento não foi aprovado ou a compra foi interrompida antes da finalização.
+        </p>
+
+        ${orderId ? `
+          <div class="payment-order-meta">
+            <div class="payment-meta-box">
+              <span class="payment-meta-label">Pedido</span>
+              <strong>#${orderId}</strong>
+            </div>
+
+            <div class="payment-meta-box">
+              <span class="payment-meta-label">Status</span>
+              <strong>Não concluído</strong>
+            </div>
+          </div>
+        ` : ""}
+
+        <div class="payment-order-section">
+          <h3>O que fazer agora</h3>
+          <p class="payment-success-text">
+            Você pode voltar ao checkout e tentar novamente, ou retornar à loja para continuar navegando.
+          </p>
+        </div>
+
+        <div class="payment-success-actions">
+          <a href="checkout.html" class="btn">Voltar ao checkout</a>
+          <a href="index.html" class="btn btn-outline-light">Voltar para a loja</a>
+        </div>
+      `;
+    }
+
+    loadFailurePage();
+  </script>
+
+
+</body>
+</html>
