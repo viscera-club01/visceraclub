@@ -3739,5 +3739,67 @@
       "adminNewSaleSentAt": "",
       "shipmentSentAt": ""
     }
+  },
+  {
+    "id": 1774268081329,
+    "customer": {
+      "name": "Victoria Azevedo",
+      "document": "415.400.108-64",
+      "email": "victoriaazevedo_@hotmail.com",
+      "phone": "(12) 982374027"
+    },
+    "address": {
+      "cep": "11608-212",
+      "street": "Rua do Petróleo",
+      "number": "35",
+      "complement": "Colégio Progresso",
+      "reference": "",
+      "city": "São Sebastião",
+      "state": "SP"
+    },
+    "cart": [
+      {
+        "product": "BLUE VEIL",
+        "price": 129.9,
+        "image": "drop2-preto.gif",
+        "color": "Black",
+        "size": "G",
+        "quantity": 1,
+        "weight": 0.4,
+        "width": 30,
+        "height": 5,
+        "length": 35
+      }
+    ],
+    "subtotal": 129.9,
+    "shippingCost": 15.02,
+    "discountAmount": 0,
+    "couponCode": "",
+    "shippingMethod": {
+      "id": "2",
+      "company": "Correios",
+      "name": "SEDEX",
+      "deliveryTime": 2,
+      "price": 15.02
+    },
+    "total": 144.92,
+    "status": "pending",
+    "paymentMethod": "mercado_pago",
+    "createdAt": "2026-03-23T12:14:41.329Z",
+    "paidAt": "",
+    "carrier": "",
+    "trackingCode": "",
+    "labelUrl": "",
+    "shippedAt": "",
+    "mercadoPagoPaymentId": "",
+    "paymentStatus": "",
+    "paymentStatusDetail": "",
+    "emailNotifications": {
+      "orderCreatedSentAt": "2026-03-23T12:14:42.628Z",
+      "adminOrderCreatedSentAt": "2026-03-23T12:14:42.922Z",
+      "paymentApprovedSentAt": "",
+      "adminNewSaleSentAt": "",
+      "shipmentSentAt": ""
+    }
   }
 ]

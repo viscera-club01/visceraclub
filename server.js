@@ -211,8 +211,7 @@ function requireAdminAuth(req, res, next) {
 
 function getCouponDiscountPercent(code) {
   const coupons = {
-    VISCERA10: 10,
-    DROP15: 15,
+    MEMBROVISCERA: 10,
     TESTE99: 99
   };
 
